@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
       <h1>2407 batch</h1>
       <h1>2408 batch</h1>
       <h1>2409 batch</h1>
+      <h1>Ravi</h1>
     </div>
   );
 }
